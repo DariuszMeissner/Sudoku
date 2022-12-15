@@ -1,2 +1,2 @@
 # Sudoku
-A game for android platform based on create-react-native-app.
+A game for mobile platform based on create-react-native-app/expo.
