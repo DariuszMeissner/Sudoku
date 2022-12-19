@@ -2,7 +2,7 @@
 A game for mobile platform based on create-react-native-app/expo.
 
 ##### Motivation
-This is personal side project to solve sudoku puzzle and to practice React library on mobile platform.
+This is personal side project to solve sudoku puzzle, to practice React library on mobile platform and publish on Google Play and App store.
 
 #### Assumptions
 - generating sudoku
